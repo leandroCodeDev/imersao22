@@ -10,6 +10,8 @@ O objetivo é demonstrar a construção de um sistema distribuído moderno, com 
 
 [Visualize a arquitetura completa aqui](https://link.excalidraw.com/readonly/Nrz6WjyTrn7IY8ZkrZHy)
 
+![alt text](./arquitetura_projeto.png)
+
 ### Componentes do Sistema
 
 - **Frontend (Next.js)**
